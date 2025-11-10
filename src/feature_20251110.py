@@ -13,19 +13,3 @@ def feature_helper():
 
 if __name__ == "__main__":
     new_feature()
-
-# Historical update 2023-04-10 21:06:00
-def historical_feature():
-    """Feature added on 2023-04-10 21:06:00"""
-    print('Historical feature working')
-    return True
-# Historical update 2023-04-20 15:56:00
-def historical_feature():
-    """Feature added on 2023-04-20 15:56:00"""
-    print('Historical feature working')
-    return True
-# Historical update 2025-02-20 18:21:00
-def historical_feature():
-    """Feature added on 2025-02-20 18:21:00"""
-    print('Historical feature working')
-    return True
