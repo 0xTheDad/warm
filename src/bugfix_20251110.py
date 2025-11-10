@@ -19,19 +19,3 @@ def validate_input(data):
 
 if __name__ == "__main__":
     fixed_function()
-
-# Historical update 2023-09-19 19:45:00
-def historical_feature():
-    """Feature added on 2023-09-19 19:45:00"""
-    print('Historical feature working')
-    return True
-# Historical update 2024-04-21 14:12:00
-def historical_feature():
-    """Feature added on 2024-04-21 14:12:00"""
-    print('Historical feature working')
-    return True
-# Historical update 2024-06-02 18:08:00
-def historical_feature():
-    """Feature added on 2024-06-02 18:08:00"""
-    print('Historical feature working')
-    return True
